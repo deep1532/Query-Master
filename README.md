@@ -2,7 +2,7 @@
 
 **Task:** Create a SQL editor view where your users can query easily on a table using SQL, and see the results.
 
-The app is deployed at: **https://sql-query-app-pavan.netlify.app/**
+The app is deployed at: **https://query-master.netlify.app//**
 
 App fulfills all the requirements that were mentioned by team Atlan.
 
